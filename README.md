@@ -1,6 +1,10 @@
 <h1 align="center">Hi! I'm Alyssie</h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caluyaalyssamae&layout=compact&theme=dark">
+<div>
+  <p>:office: <b>Work experience:</b> 4 years</p>
+  <p>:mortar_board: <b>Education:</b> BSIT Web Development | iAcademy</p>
+  <p>:computer: <b>Portfolio:</b> https://alyssie.com</p>
+  <p>:email: <b>Contact me:</b> caluyaalyssamae@gmail.com</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caluyaalyssamae&layout=compact&theme=dark" align="right">
 </div>
 <hr>
 <div align="center">
