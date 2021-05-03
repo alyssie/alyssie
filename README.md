@@ -48,15 +48,15 @@
   <a href="https://www.sketch.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="35" height="35"/>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/>
-  </a> 
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="35" height="35"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="35" height="35"/>
   </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/>
+  </a> 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
   </a>
