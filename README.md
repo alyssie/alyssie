@@ -1,7 +1,6 @@
 <h1 align="center">Hi! I'm Alyssie</h1>
 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caluyaalyssamae&layout=compact&theme=dark" align="right">
 <div align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
@@ -64,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
   </a>
 </div>
-
+<hr>
 
 
 <!---
