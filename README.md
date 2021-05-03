@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Alyssie</h1>
-<div align="left">
+<h1>:wave: Hi! I'm Alyssie</h1>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssie&layout=compact&theme=dark" align="right">
   <p>:sparkles: <b>Work experience:</b> 4 years</p>
   <p>:dizzy: <b>Education:</b> BSIT Web Development | iAcademy</p>
