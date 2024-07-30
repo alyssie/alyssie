@@ -1,7 +1,7 @@
 <h1>Hi! I'm Alyssie</h1>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssie&layout=compact&theme=dark" align="right">
-  <p>:sparkles: <b>Work experience:</b> 4 years</p>
+  <p>:sparkles: <b>Work experience:</b> 7 years</p>
   <p>:dizzy: <b>Education:</b> BSIT Web Development | iAcademy</p>
   <p>:sparkling_heart: <b>Portfolio:</b> https://alyssie.netlify.app</p>
   <p>:alien: <b>Contact me:</b> caluyaalyssamae@gmail.com</p>
